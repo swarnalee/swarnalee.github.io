@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu9f21edff4f42cff6b92d75a0a5817aba_358052_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Test Post 2</title>
+      <link>/post/post2/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/post2/</guid>
+      <description>&lt;h2 id=&#34;seismic-effect-on-bearing-capacity-of-shallow-foundation&#34;&gt;Seismic effect on bearing capacity of shallow foundation&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Test Post</title>

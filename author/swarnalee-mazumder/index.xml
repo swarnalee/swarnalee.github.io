@@ -5,12 +5,21 @@
     <link>/author/swarnalee-mazumder/</link>
       <atom:link href="/author/swarnalee-mazumder/index.xml" rel="self" type="application/rss+xml" />
     <description>Swarnalee Mazumder</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/swarnalee-mazumder/avatar_hu1d7af1b9f7a5d83be37d06bf25f908c9_94018_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Swarnalee Mazumder</title>
       <link>/author/swarnalee-mazumder/</link>
     </image>
+    
+    <item>
+      <title>Test Post 2</title>
+      <link>/post/post2/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/post2/</guid>
+      <description>&lt;h2 id=&#34;seismic-effect-on-bearing-capacity-of-shallow-foundation&#34;&gt;Seismic effect on bearing capacity of shallow foundation&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Test Post</title>
