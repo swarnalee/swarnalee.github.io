@@ -208,6 +208,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177231367-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-177231367-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -617,6 +655,21 @@
         
         
         
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/files/cv.pdf" >
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
           
         
         
@@ -651,6 +704,8 @@
         
         
         
+          
+        
         
         
         
@@ -658,8 +713,25 @@
           
         
         <li>
-          <a href="/files/cv.pdf" >
-            <i class="ai ai-cv big-icon"></i>
+          <a href="https://www.linkedin.com/in/swarnaleemazumder/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://instagram.com/prettyskies.life" target="_blank" rel="noopener">
+            <i class="fab fa-instagram big-icon"></i>
           </a>
         </li>
         
@@ -680,15 +752,22 @@ I am a Civil Engineering undergraduate student at NIT Silchar. It was during my 
 <a href="http://www.nits.ac.in/departments/electrical/electrical.php" target="_blank" rel="noopener">Dr. Prasanta Roy</a>.
 In the past, I&rsquo;ve worked closely with 
 <a href="http://www.nits.ac.in/departments/civil/civil.php" target="_blank" rel="noopener">Prof. Ashim Kanti Dey</a>.</p>
-<p>Apart from academics I dabble often on <em>human psychology</em> and <em>space sciences</em>. I enjoy reading (and sometimes writing) blogs, making cool Spotify playlists :) and playing Ukulele. Also, these days I am teaching myself to code.</p>
+<p>Apart from academics I dabble often in <em>human psychology</em> and <em>space sciences</em>. I enjoy reading (and sometimes writing) blogs, making cool Spotify playlists :) and playing Ukulele. Also, these days I am teaching myself to code.</p>
 <p>Will be more than happy to connect <a href="https://twitter.com/rawslayn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rawslayn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <hr>
-<p>Links to some nice Spotify playlists:
-
-<a href="https://open.spotify.com/playlist/6rJem2tnmvaqlN02pYIYLq?si=wgTqQIX4TeevVXWj4LZctA" target="_blank" rel="noopener">study session</a>, 
-<a href="https://open.spotify.com/playlist/5k1EnDU3hQqh5NKrqtbOGu?si=DyGkQ0FnR-SAawel7t6s6Q" target="_blank" rel="noopener">aes20s</a>, 
-<a href="https://open.spotify.com/playlist/22qdrLyXHUFxPUCYN1o1SS?si=lTptfACsQR6WS65XPfB2Pw" target="_blank" rel="noopener">feelit</a>, 
-<a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=daXekwyUSkiDe45OneNGgQ" target="_blank" rel="noopener">lofimusic</a></p>
+<blockquote>
+<p><em>Links to some nice Spotify playlists:</em></p>
+<ul>
+<li>
+<a href="https://open.spotify.com/playlist/6rJem2tnmvaqlN02pYIYLq?si=wgTqQIX4TeevVXWj4LZctA" target="_blank" rel="noopener">study session</a></li>
+<li>
+<a href="https://open.spotify.com/playlist/5k1EnDU3hQqh5NKrqtbOGu?si=DyGkQ0FnR-SAawel7t6s6Q" target="_blank" rel="noopener">aes20s</a></li>
+<li>
+<a href="https://open.spotify.com/playlist/22qdrLyXHUFxPUCYN1o1SS?si=lTptfACsQR6WS65XPfB2Pw" target="_blank" rel="noopener">feelit</a></li>
+<li>
+<a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=daXekwyUSkiDe45OneNGgQ" target="_blank" rel="noopener">lofimusic</a></li>
+</ul>
+</blockquote>
 <hr>
 
 
@@ -767,7 +846,7 @@ In the past, I&rsquo;ve worked closely with
 
   <section id="my-widget" class="home-section wg-awesome   "  >
     <div class="container">
-      <div style="font-size: 2rem; color: blue">
+      <div style="font-size: 2rem; color: dodgerblue">
   <div align="center">
 <em>"You become what you believe. You are where you are today based on everything you have believed."</em>
 <p>~Oprah Winfrey</p>
@@ -816,8 +895,8 @@ In the past, I&rsquo;ve worked closely with
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Timeline</h1>
-    <p>Research and Internship Experience</p>
+    <h1>Research and Internship Experience</h1>
+    <p>Timeline</p>
   </div>
   <div class="col-12 col-lg-8">
     
