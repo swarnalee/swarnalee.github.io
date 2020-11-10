@@ -17,7 +17,12 @@
       <link>https://swarnalee.github.io/project/landslide/</link>
       <pubDate>Sun, 18 Oct 2020 13:34:50 +0530</pubDate>
       <guid>https://swarnalee.github.io/project/landslide/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/lanslide.jpg&#34; alt=&#34;landslide-iot&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;[Ongoing Project] &lt;em&gt;Instrumentation in Geotechnical Engineering&lt;/em&gt;. This project is based on interdisciplinary research work and coordinated interlinking of data that could be a strong base for slope failure early warning systems by use of IoT.&lt;/p&gt;
+&lt;p&gt;The objective of the proposed project is to develop an early warning system to detect possible landslides based on IoT.
+A landslide is movement of a mass of rock, debris, or earth down a slope. The landslides occur when the slope changes from a stable to an unstable condition. This change in the stability of a slope can be caused by many factors together or alone. Rainfall and earthquake contribute largely to the event of landslides due to slope failure along with various other factors such as geometrical, hydrological and geotechnical properties. In monsoons the rain water percolates and develops pore water pressure. This forces the soil and rocks to loosen their shear strength resulting in landslides. Therefore, a suitable warning system is required to develop, such that it will check the possibility where the slope is likely to fail causing landslide and notify it well before time so that necessary steps can be taken. Thus, losses caused by landslide will reduce substantially.&lt;/p&gt;
+&lt;p&gt;Landslide detection can be done by using diverse methods like visual inspection using image/video processing, satellite remote sensing, using statistical methods or using machine learning algorithms. Landslide detection can also be based on data driven approaches using wireless sensor networks.&lt;/p&gt;
+&lt;p&gt;In our project we have proposed a network of web-sensors using the Internet network to share data and information on landslide triggering events. The proposed Internet of things (IoT) based landslide detection and monitoring system is a low cost, robust and delay efficient.&lt;/p&gt;
+&lt;p&gt;[Will keep on updating.]&lt;/p&gt;
 </description>
     </item>
     
