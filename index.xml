@@ -2,45 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swarnalee Mazumder</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://swarnalee.github.io/</link>
+      <atom:link href="https://swarnalee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Swarnalee Mazumder</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Swarnalee Mazumder. Last updated 31st October, 2020.</copyright><lastBuildDate>Sun, 18 Oct 2020 13:34:50 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu204456a5e25a432efb3ae1f19732154d_28646_512x512_fill_lanczos_center_2.png</url>
+      <url>https://swarnalee.github.io/images/icon_hu204456a5e25a432efb3ae1f19732154d_28646_512x512_fill_lanczos_center_2.png</url>
       <title>Swarnalee Mazumder</title>
-      <link>/</link>
+      <link>https://swarnalee.github.io/</link>
     </image>
     
     <item>
       <title>Smart Early Warning of Landslides based on IoT</title>
-      <link>/project/landslide/</link>
+      <link>https://swarnalee.github.io/project/landslide/</link>
       <pubDate>Sun, 18 Oct 2020 13:34:50 +0530</pubDate>
-      <guid>/project/landslide/</guid>
+      <guid>https://swarnalee.github.io/project/landslide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/lanslide.jpg&#34; alt=&#34;landslide-iot&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>List 100</title>
-      <link>/list/</link>
+      <link>https://swarnalee.github.io/list/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/list/</guid>
+      <guid>https://swarnalee.github.io/list/</guid>
       <description>&lt;p&gt;Things I want to do before I die. Please let me know if you have any recommendation. Inspired by the amazing &lt;strong&gt;List 100&lt;/strong&gt; by &lt;a href=&#34;https://huyenchip.com/list-100/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chip Huyen&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be awesome&lt;/li&gt;
+&lt;li&gt;Be kind&lt;/li&gt;
+&lt;li&gt;Adopt a pet from a shelter&lt;/li&gt;
+&lt;li&gt;Help build resilient communities&lt;/li&gt;
+&lt;li&gt;Start a non profit organization&lt;/li&gt;
+&lt;li&gt;Start an art and crafts website&lt;/li&gt;
+&lt;li&gt;Run a marathon&lt;/li&gt;
+&lt;li&gt;Go hiking&lt;/li&gt;
+&lt;li&gt;Learn Japanese&lt;/li&gt;
+&lt;li&gt;Start a company&lt;/li&gt;
+&lt;li&gt;Get published&lt;/li&gt;
+&lt;li&gt;Build my own home&lt;/li&gt;
+&lt;li&gt;Visit Studio Ghibli Park, Japan&lt;/li&gt;
+&lt;li&gt;Sponsor Europe trip to parents&lt;/li&gt;
+&lt;li&gt;Learn to play guitar&lt;/li&gt;
+&lt;li&gt;Start a fun and in ways helpful blog&lt;/li&gt;
+&lt;li&gt;Start a YouTube travel channel&lt;/li&gt;
+&lt;li&gt;See auroras&lt;/li&gt;
+&lt;li&gt;Be in Paris!&lt;/li&gt;
+&lt;li&gt;Read 1000 books&lt;/li&gt;
+&lt;li&gt;Travel to 100 (or more) countries&lt;/li&gt;
+&lt;li&gt;Build my own sustainable garden&lt;/li&gt;
+&lt;li&gt;Live in another country&lt;/li&gt;
+&lt;li&gt;Publish a paper&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;this-is-a-running-list-will-keep-on-updating&#34;&gt;(this is a running list will keep on updating!)&lt;/h4&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/funres/</link>
+      <link>https://swarnalee.github.io/funres/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/funres/</guid>
-      <description>&lt;h2 id=&#34;resources-i-find-useful&#34;&gt;Resources I find useful&lt;/h2&gt;
+      <guid>https://swarnalee.github.io/funres/</guid>
+      <description>&lt;h2 id=&#34;fun-resources-i-find-useful-&#34;&gt;Fun resources I find useful! 😄&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Links to some interesting, fun and helpful resources (+ a few playlists :p) I find helpful&lt;/em&gt; 👩‍💻&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://mix.com/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mix&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://deepstash.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deepstash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;music&#34;&gt;Music&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://open.spotify.com/playlist/6rJem2tnmvaqlN02pYIYLq?si=wgTqQIX4TeevVXWj4LZctA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study session&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://open.spotify.com/playlist/5k1EnDU3hQqh5NKrqtbOGu?si=DyGkQ0FnR-SAawel7t6s6Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aes20s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://open.spotify.com/playlist/22qdrLyXHUFxPUCYN1o1SS?si=lTptfACsQR6WS65XPfB2Pw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;feelit&lt;/a&gt;&lt;/li&gt;
